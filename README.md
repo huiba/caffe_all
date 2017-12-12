@@ -1,4 +1,4 @@
-# Full Caffe
+# Caffe
 
 ## A merged version of newest Caffe (11.Dec 2017), Faster R-CNN, SegNet and fully connected CRF, which was implemented by Deeplab.
 
