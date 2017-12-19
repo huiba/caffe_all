@@ -7,6 +7,8 @@
 - [SegNet](https://github.com/alexgkendall/caffe-segnet)
 - [CRF](https://bitbucket.org/deeplab/deeplab-public/)
 
+The details of this merge:
+https://github.com/huiba/caffe_all/commit/ca9317404cec610a9e8212cfab7b4480fb3be626
 
 ## License and Citation
 
